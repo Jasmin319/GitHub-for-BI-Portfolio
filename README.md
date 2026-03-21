@@ -64,17 +64,17 @@ Use structured templates for different types of repositories.
 
 ---
 
-### 4. Examples
+### 4. Checklist
 
-👉 Go to: `04-Examples`
-See how structured READMEs look in practice.
+👉 Go to: `04-Checklist`
+Use a simple checklist to review and improve your GitHub.
 
 ---
 
-### 5. Checklist
+### 5. Bonus Tipps
 
-👉 Go to: `05-Checklist`
-Use a simple checklist to review and improve your GitHub.
+👉 Go to: `04-Checklist`
+See what you could do more!
 
 ---
 
@@ -135,7 +135,7 @@ If you use this work, attribution is appreciated:
 ## Final thought
 
 You don’t need more projects.
-
 You need better structure.
+And a GitHUb that really communicates who you are.
 
 That’s what turns GitHub into a real portfolio.
