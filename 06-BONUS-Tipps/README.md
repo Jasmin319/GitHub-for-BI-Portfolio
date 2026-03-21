@@ -87,6 +87,148 @@ Use links to:
     Total Sales = SUM(Sales[Amount])
     ```
 
+## 5. Lists
+
+### Code
+
+    - Define KPI logic  
+    - Apply consistent structure  
+    - Reuse across reports  
+
+### Result
+
+- Define KPI logic  
+- Apply consistent structure  
+- Reuse across reports  
+
+Use lists for:
+
+- steps  
+- highlights  
+- quick readability  
+
+---
+
+## 6. Numbered steps
+
+### Code
+
+    1. Load data  
+    2. Create measures  
+    3. Build visuals  
+
+### Result
+
+1. Load data  
+2. Create measures  
+3. Build visuals  
+
+Use numbered lists when:
+
+- order matters  
+- you guide someone through a process  
+
+---
+
+## 7. Callouts / Quotes
+
+### Code
+
+    > This is the core idea behind the solution
+
+### Result
+
+> This is the core idea behind the solution
+
+Use this to:
+
+- highlight key ideas  
+- emphasize important points  
+
+---
+
+## 8. Section structure
+
+### Code
+
+    ## Overview
+    ## How it works
+    ## How to use
+
+### Result
+
+## Overview
+## How it works
+## How to use
+
+Use clear sections to:
+
+- guide readers  
+- make scanning easy  
+- reduce confusion  
+
+---
+
+## 9. Horizontal separators
+
+### Code
+
+    ---
+
+### Result
+
+---
+
+Use separators to:
+
+- split sections  
+- improve readability  
+
+---
+
+## 10. Combining elements (example)
+
+### Code
+
+    ## KPI Overview
+
+    | KPI     | Description        |
+    |---------|--------------------|
+    | Revenue | Total sales amount |
+
+    ![Preview](./assets/preview.png)
+
+    > KPIs must follow consistent logic
+
+    1. Define KPI  
+    2. Apply structure  
+    3. Reuse logic  
+
+### Result
+
+## KPI Overview
+
+| KPI     | Description        |
+|---------|--------------------|
+| Revenue | Total sales amount |
+
+![Preview](https://via.placeholder.com/600x300.png?text=Preview)
+
+> KPIs must follow consistent logic
+
+1. Define KPI  
+2. Apply structure  
+3. Reuse logic  
+
+---
+
+## Final thought
+
+Most READMEs don’t fail because of missing content.  
+They fail because they are hard to read.
+
+Good structure is not decoration.  
+It’s what makes your thinking visible.
 ### Result
 
 ```DAX
