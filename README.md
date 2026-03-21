@@ -116,7 +116,7 @@ Use a simple checklist to review and improve your GitHub.
 ### 5. Bonus Tipps
 
 👉 Go to: [05-BONUS-TIPPS](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/e636b96cfbb586e096d2ce385fc0214f04e99df8/05-BONUS-TIPPS)
-See what you could do more! Make your GitHub next level!⭐
+See what you could do more! Make your GitHub next level! ⭐
 
 ---
 
