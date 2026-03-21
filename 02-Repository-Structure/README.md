@@ -19,18 +19,18 @@ If your structure is unclear, your work will feel unclear — no matter how good
 ---
 
 ## Recommended structure
-project-root/
-│
-├── README.md
-├── docs/
-├── src/
-├── data/
-├── assets/
-│ ├── banners/
-│ ├── images/
-│ └── icons/
-├── templates/
-└── config/
+project-root/  
+│  
+├── README.md  
+├── docs/  
+├── src/  
+├── data/  
+├── assets/  
+│ ├── banners/  
+│ ├── images/  
+│ └── icons/  
+├── templates/  
+└── config/  
 
 ---
 
