@@ -94,13 +94,14 @@ Answers:
 
 ---
 
-### 5. System  
+### 5. Systems & Frameworks  
 **Focus:** thinking  
 
-Use this when you want to show your approach.
+Use this when you want to show your approach or provide a framework for a specific topic.
 
 Answers:
 - How is this structured?
+- What is the concept behind this?
 - How do you approach this problem?
 
 ---
