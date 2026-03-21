@@ -58,6 +58,7 @@ Understand how to organize your GitHub into meaningful topics instead of random 
 
 ### 3. README templates
 
+In this section I will show you how you can create your README templates and you will find everything you need to know about that.  
 👉 Go to: `03-README-Templates`
 Use structured templates for different types of repositories.
 
