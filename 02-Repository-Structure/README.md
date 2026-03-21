@@ -2,8 +2,7 @@
 
 # Repository Structure Guide
 
-This repository follows a simple and practical structure.  
-The goal is clarity and usability not overengineering.
+This guide helps you develope a clear folder/file structure for your repository.
 
 ---
 
