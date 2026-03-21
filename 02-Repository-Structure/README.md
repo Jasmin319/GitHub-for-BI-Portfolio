@@ -144,12 +144,12 @@ If yes, place it in:
 - hardcoding visuals instead of reusing them  
 - creating folders “just in case”  
 
-Structure should follow usage, not theory.
+Structure should follow usage, not theory.Adapt it in the way it serves you most.
 
 ---
 
 ## Final note
 
 A clean repository is not about aesthetics.  
-It’s about making your work usable — for others and for your future self.
+It’s about making your work usable for others and for your future self.
 
