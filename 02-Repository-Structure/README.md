@@ -144,7 +144,7 @@ If yes, place it in:
 - hardcoding visuals instead of reusing them  
 - creating folders “just in case”  
 
-Structure should follow usage, not theory.Adapt it in the way it serves you most.
+Structure should follow usage, not theory. Adapt it in the way it serves you most.
 
 ---
 
