@@ -66,3 +66,90 @@ If something needs context, it goes here — not buried in code.
 Reusable visual elements.
 
 Structure it like this:
+assets/  
+├── banners/  
+├── images/  
+└── icons/  
+
+#### Banners
+Put all reusable banners here:
+- GitHub README headers  
+- project thumbnails  
+- presentation visuals  
+
+**Naming convention example:**
+banner-main.png  
+banner-dark.png  
+banner-project-xyz.png  
+
+
+**Guidelines:**
+- Keep them generic enough to reuse  
+- Avoid project-specific text baked into the image  
+- Use consistent dimensions across banners  
+
+This saves you a lot of time later.
+
+---
+
+### `/templates`
+Anything you reuse across projects:
+- README templates  
+- issue templates  
+- report structures  
+
+If you copy-paste something more than once, it belongs here.
+
+---
+
+### `/config`
+- environment configs  
+- settings  
+- reusable setup files  
+
+Keep configuration separate from logic.
+
+---
+
+## How to approach your structure
+
+Don’t overengineer from day one.
+
+Start simple:
+- README  
+- src  
+- assets  
+
+Then evolve as needed.
+
+---
+
+## Reusability mindset
+
+Before creating something new, ask:
+- Will I need this again?  
+- Can I make this generic?  
+
+If yes, place it in:
+- `/assets` for visuals  
+- `/templates` for structure  
+- `/config` for setup  
+
+---
+
+## Common mistakes
+
+- dumping everything into the root  
+- mixing data, code, and visuals  
+- hardcoding visuals instead of reusing them  
+- creating folders “just in case”  
+
+Structure should follow usage, not theory.
+
+---
+
+## Final note
+
+A clean repository is not about aesthetics.  
+It’s about making your work usable — for others and for your future self.
+
