@@ -25,9 +25,11 @@ This guide shows:
 To create a profile README:
 
 1. Create a new repository
-2. Use your GitHub username as the repository name
+2. Use your GitHub username as the repository name in exact the same way as it is case sensitive.
 
    * example: `yourname/yourname`
+  ![New Repository](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/4adc9dc413581939857a7b43742bcacd1c64c3c3/01-Profile-README/Pictures/Add-Repository.png)
+   
 3. Add a `README.md` file
 
 That README becomes your profile.
@@ -38,10 +40,12 @@ That README becomes your profile.
 
 A good profile does not try to explain everything.
 
-It should answer three questions:
+It should answer these questions:
 
 * What do you do?
 * How do you approach your work?
+* How do you think?
+* What differentiates you from others?
 * Where can I see examples?
 
 ---
@@ -110,7 +114,13 @@ Avoid generic descriptions.
 * “Passionate about insights”
 * “Turning data into insights”
 
-These could apply to almost everyone.
+Do you know any person working in Data where this description does not match? These could apply to almost everyone. 
+Own your profile and find out what makes you different.  
+* Why do people reach out to you or talk to you?
+* What perspective is your work about, that others do not cover?
+* What are people saying about you
+
+If you have no idea about it use some samples of your work and ask AI. 
 
 ---
 
