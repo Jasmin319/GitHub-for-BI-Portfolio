@@ -26,15 +26,68 @@ The right elements help you:
 
 ### Code
 
-```md
-![Dashboard Preview](./assets/preview.png)
-``
-
+    ![Dashboard Preview](./assets/preview.png)
 
 ### Result
 
-Use images to:
+![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Dashboard+Preview)
 
-show dashboards
-present results
-give immediate context
+Use images to:
+- show dashboards  
+- present results  
+- give immediate context  
+
+---
+
+## 2. Tables
+
+### Code
+
+    | KPI       | Description        |
+    |-----------|--------------------|
+    | Revenue   | Total sales amount |
+    | Profit    | Net earnings       |
+
+### Result
+
+| KPI     | Description        |
+|---------|--------------------|
+| Revenue | Total sales amount |
+| Profit  | Net earnings       |
+
+Use tables for:
+- structured comparisons  
+- definitions  
+- overviews  
+
+---
+
+## 3. Links
+
+### Code
+
+    [View Full Dashboard](https://example.com)
+
+### Result
+
+[View Full Dashboard](https://example.com)
+
+Use links to:
+- connect to reports  
+- reference datasets  
+- link related repositories  
+
+---
+
+## 4. Code blocks (DAX / SQL)
+
+### Code
+
+    ```DAX
+    Total Sales = SUM(Sales[Amount])
+    ```
+
+### Result
+
+```DAX
+Total Sales = SUM(Sales[Amount])
