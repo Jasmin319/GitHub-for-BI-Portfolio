@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Jasmin319/Jasmin319/3b8938c90b463d31690ae8562c8be9b2008c4596/Banner.png)
+[![Banner](https://raw.githubusercontent.com/Jasmin319/Jasmin319/3b8938c90b463d31690ae8562c8be9b2008c4596/Banner.png)
 # Turn your messy GitHub into a  professional BI Portfolio
 
 A practical system to turn GitHub from a file storage tool into a structured BI portfolio.
@@ -33,6 +33,48 @@ With this guide, you can:
 * write READMEs that explain purpose and value
 * combine different README perspectives effectively
 * present your work in a way that reflects your thinking
+
+---
+
+## What READMEs do and how they work
+
+A README is the entry point of every repository.
+
+It is the first thing people see when they open your project.
+
+In GitHub, the `README.md` file is automatically shown on the main page of a repository.  
+You write it in Markdown, and GitHub turns it into a structured, readable page.
+
+---
+
+### What a README actually does
+
+A README is not just documentation.
+
+It serves three key purposes:
+
+**1. Orientation**  
+It tells people what this repository is about within seconds.
+
+**2. Context**  
+It explains why the project exists, not just what files are inside.
+
+**3. Communication**  
+It shows how you think, how you structure work, and how you approach problems.
+
+---
+
+### How GitHub uses READMEs
+
+GitHub treats the README as the homepage of your repository.
+
+That means:
+
+* it is displayed automatically  
+* it is often the only thing people read  
+* it influences whether someone continues exploring your work  
+
+If your README is unclear, the repository feels unclear, no matter how good the work is. A strong README is what makes your work understandable and valuable.
 
 ---
 
@@ -138,3 +180,4 @@ You don’t need more projects.
 You need better structure.
 And a GitHub that really communicates who you are.  
 That’s what turns GitHub into a real portfolio.
+](https://github.com/Jasmin319/GitHub-for-BI-Portfolio)
