@@ -150,6 +150,11 @@ They combine them, but in a structured way.
 (show result)
 
 ## How it works  
+
+### Bonus Tipps
+
+You can find a complete overbiew of elements you could put in here:  
+👉[Bonus Tipps](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/4a45b58a31be3ea88d351b030c20b37dda76bad5/06-BONUS-Tipps/README.md)
 (system / logic)
 
 ## How to use  
