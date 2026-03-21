@@ -28,6 +28,8 @@ The right elements help you:
 
 ```md
 ![Dashboard Preview](./assets/preview.png)
+``
+
 
 ### Result
 
