@@ -44,7 +44,7 @@ Start here:
 
 ### 1. Profile README
 
-👉 Go to: `01-Profile-README`
+👉 Go to: [01-Profile-README](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/b792563277457a8b7db0816b6d2ffb2e6400cb80/01-Profile-README)
 Learn how to position yourself clearly and avoid generic descriptions.
 
 ---
