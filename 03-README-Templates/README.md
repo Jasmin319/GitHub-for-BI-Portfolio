@@ -154,4 +154,4 @@ They combine them, but in a structured way.
 ---
 ## Bonus Tipps
 You can find a complete overbiew of elements you could put in here:  
-👉[Bonus Tipps](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/58ed26b264eb91fd388f1f760957f424e66c790e/05-BONUS-TIPPS/README.md)
+👉[Bonus Tipps](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/c8f56be3ed5d5d86d344d54fae7dad421ba31dc6/05-BONUS-TIPPS/README.md)
