@@ -2,7 +2,7 @@
 # Repository Structure Guide
 
 This repository provides a simple, scalable structure you can reuse across projects.  
-The goal is consistency, clarity, and reusability — not complexity.
+The goal is consistency, clarity, and reusability not complexity.
 
 ---
 
@@ -14,7 +14,7 @@ A good repository structure helps you:
 - avoid chaos as things grow  
 - reuse assets (like banners, templates, configs)  
 
-If your structure is unclear, your work will feel unclear — no matter how good it is.
+If your structure is unclear, your work will feel unclear no matter how good it is.
 
 ---
 
