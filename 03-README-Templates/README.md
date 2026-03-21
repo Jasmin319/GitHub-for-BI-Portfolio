@@ -133,7 +133,11 @@ They combine them, but in a structured way.
 
 **Rule:**
 - 1 primary perspective  
-- 1–2 supporting perspectives  
+- 1–2 supporting perspectives
+
+---
+## Bonus Tipps
+You can find a complete overbiew of elements you could put in here: 👉[Bonus Tipps](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/4a45b58a31be3ea88d351b030c20b37dda76bad5/06-BONUS-Tipps/README.md) (system / logic)
 
 ---
 
@@ -154,10 +158,5 @@ They combine them, but in a structured way.
 ## How to use  
 (actionable steps)
 
----
 
-## Bonus Tipps
 
-You can find a complete overbiew of elements you could put in here:  
-👉[Bonus Tipps](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/4a45b58a31be3ea88d351b030c20b37dda76bad5/06-BONUS-Tipps/README.md)
-(system / logic)
