@@ -1,155 +1,118 @@
 ![Banner](https://raw.githubusercontent.com/Jasmin319/Jasmin319/3b8938c90b463d31690ae8562c8be9b2008c4596/Banner.png)
+
 # Repository Structure Guide
 
-This repository provides a simple, scalable structure you can reuse across projects.  
-The goal is consistency, clarity, and reusability not complexity.
+This repository follows a simple and practical structure.  
+The goal is clarity and usability not overengineering.
 
 ---
 
-## Why structure matters
+## Project Structure
 
-A good repository structure helps you:
-- onboard others faster  
-- keep projects maintainable over time  
-- avoid chaos as things grow  
-- reuse assets (like banners, templates, configs)  
+Make your project structure fit your key areas. What you should avoid is diplaying too many files at once. A rule of thumb can be that users can visually grab at once a max of 7 items. Means you can have one readme and a max of 6 items or folders in one level. The better the structure, the more organized your repositiory will look. 
 
-If your structure is unclear, your work will feel unclear no matter how good it is.
-
----
-
-## Recommended structure
 project-root/  
 │  
 ├── README.md  
-├── docs/  
-├── src/  
+├── reports/  
+│   └── dashboard.pbix  
 ├── data/  
+│   └── sample-data.xlsx  
 ├── assets/  
-│ ├── banners/  
-│ ├── images/  
-│ └── icons/  
-├── templates/  
-└── config/  
+│   ├── banners/  
+│   ├── images/  
+│   └── icons/  
+├── docs/  
+│   └── explanation.md  
+└── templates/  
+    └── readme-template.md  
 
 ---
 
-## Folder breakdown
+## Folder Breakdown
 
-### `/src`
-Your actual project work lives here.  
-Code, notebooks, reports — whatever delivers value.
+### `/reports`
+Contains your final outputs.
 
-Keep it clean. If this gets messy, everything gets messy.
+Example:
+- Power BI reports (`.pbix`)
 
 ---
 
 ### `/data`
-- raw data (if allowed)  
-- sample data  
+- sample datasets  
 - exports  
 
-Avoid mixing data with logic. Separation matters.
+Keep data separate from reports to stay organized and flexible.
 
 ---
 
 ### `/docs`
 - explanations  
+- background information  
 - decisions  
-- documentation  
 
-If something needs context, it goes here — not buried in code.
+Use this folder when something needs context beyond the report.Or put it in the readme if you can make it short and on point.
 
 ---
 
 ### `/assets`
 Reusable visual elements.
 
-Structure it like this:
+Structure:
 assets/  
 ├── banners/  
 ├── images/  
 └── icons/  
 
 #### Banners
-Put all reusable banners here:
-- GitHub README headers  
-- project thumbnails  
-- presentation visuals  
-
-**Naming convention example:**
-banner-main.png  
-banner-dark.png  
-banner-project-xyz.png  
-
+Use for:
+- README headers  
+- project previews  
 
 **Guidelines:**
-- Keep them generic enough to reuse  
-- Avoid project-specific text baked into the image  
-- Use consistent dimensions across banners  
-
-This saves you a lot of time later.
+- keep them reusable  
+- avoid hardcoded project-specific text  
+- use consistent sizes  
 
 ---
 
 ### `/templates`
-Anything you reuse across projects:
+Reusable files you don’t want to recreate each time.
+
+Example:
 - README templates  
-- issue templates  
-- report structures  
 
-If you copy-paste something more than once, it belongs here.
+If you reuse it, it belongs here.
 
 ---
 
-### `/config`
-- environment configs  
-- settings  
-- reusable setup files  
+## Why this structure works
 
-Keep configuration separate from logic.
-
----
-
-## How to approach your structure
-
-Don’t overengineer from day one.
-
-Start simple:
-- README  
-- src  
-- assets  
-
-Then evolve as needed.
+- clear separation of concerns  
+- easy to understand at a glance  
+- scalable without adding unnecessary complexity
+- no cognitive overloading for the user  
 
 ---
 
-## Reusability mindset
+## Keep it simple
 
-Before creating something new, ask:
-- Will I need this again?  
-- Can I make this generic?  
-
-If yes, place it in:
-- `/assets` for visuals  
-- `/templates` for structure  
-- `/config` for setup  
+Start with what you actually use.  
+Only add folders when there is a real need.  
+Use a max of 7 elements on each level.
 
 ---
 
-## Common mistakes
+## Common mistakes to avoid
 
-- dumping everything into the root  
-- mixing data, code, and visuals  
-- hardcoding visuals instead of reusing them  
-- creating folders “just in case”  
-
-Structure should follow usage, not theory. Adapt it in the way it serves you most.
+- mixing data and reports  
+- storing assets randomly  
+- adding folders “just in case”
+- Unclear or inconsistent naming.
 
 ---
 
 ## Final note
 
-A clean repository is not about aesthetics.  
-It’s about making your work usable for others and for your future self.
-
+A clean structure saves time and looks much more professional.
