@@ -1,3 +1,4 @@
+![Banner](https://raw.githubusercontent.com/Jasmin319/Jasmin319/3b8938c90b463d31690ae8562c8be9b2008c4596/Banner.png)
 # GitHub for BI Portfolio
 
 A practical system to turn GitHub from a file storage tool into a structured BI portfolio.
