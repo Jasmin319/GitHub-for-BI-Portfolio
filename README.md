@@ -51,7 +51,7 @@ Learn how to position yourself clearly and avoid generic descriptions.
 
 ### 2. Repository structure
 
-👉 Go to: `02-Repository-Structure`
+👉 Go to: [02-Repository-Structure](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/e636b96cfbb586e096d2ce385fc0214f04e99df8/02-Repository-Structure)
 Understand how to organize your GitHub into meaningful topics instead of random projects.
 
 ---
@@ -59,22 +59,22 @@ Understand how to organize your GitHub into meaningful topics instead of random 
 ### 3. README templates
 
 In this section I will show you how you can create your README templates and you will find everything you need to know about that.  
-👉 Go to: `03-README-Templates`
+👉 Go to: [03-README-Templates](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/e636b96cfbb586e096d2ce385fc0214f04e99df8/03-README-Templates)
 Use structured templates for different types of repositories.
 
 ---
 
 ### 4. Checklist
 
-👉 Go to: `04-Checklist`
+👉 Go to: [04-Checklist](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/e636b96cfbb586e096d2ce385fc0214f04e99df8/04-CHECKLIST)
 Use a simple checklist to review and improve your GitHub.
 
 ---
 
 ### 5. Bonus Tipps
 
-👉 Go to: `04-Checklist`
-See what you could do more!
+👉 Go to: [05-BONUS-TIPPS](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/e636b96cfbb586e096d2ce385fc0214f04e99df8/05-BONUS-TIPPS)
+See what you could do more! Make your GitHub next level!⭐
 
 ---
 
