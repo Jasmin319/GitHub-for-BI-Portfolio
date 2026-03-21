@@ -252,6 +252,8 @@ If everything is included, nothing stands out.
 
 ## 8. A simple template you can use
 
+👉 [Profile README template](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/8c9fedfd8fadd5e527dcd8cb55e106b1c80b033a/03-README-Templates/Profile-README.md)  
+
 ```text id="profile-template"
 Hi, I’m [Name]
 
