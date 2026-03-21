@@ -136,5 +136,5 @@ If you use this work, attribution is appreciated:
 
 You don’t need more projects.
 You need better structure.
-And a GitHub that really communicates who you are.
+And a GitHub that really communicates who you are.  
 That’s what turns GitHub into a real portfolio.
