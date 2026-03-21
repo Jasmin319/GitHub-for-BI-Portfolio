@@ -68,6 +68,7 @@ Use this when the output is the main value.
 Answers:
 - What does this achieve?
 - What does it look like?
+- Inculde a picture to immediately show how the result will look like
 
 ---
 
