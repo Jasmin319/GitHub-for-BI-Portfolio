@@ -1,2 +1,139 @@
-# GitHub-for-BI-Portfolio
-A system for structuring GitHub as a BI portfolio, combining clear repository design, effective READMEs, and a focus on showing how you think, not just what you build.
+# GitHub for BI Portfolio
+
+A practical system to turn GitHub from a file storage tool into a structured BI portfolio.
+
+This repository shows how to organize your work, write effective READMEs, and present not just what you build, but how you think.
+
+---
+
+## Why this repository
+
+Most GitHub profiles in BI look similar:
+
+* random repositories
+* unclear structure
+* little to no context
+* no clear positioning
+
+Even strong work becomes hard to understand.
+
+This repository focuses on solving that.
+
+Not by adding more content, but by adding structure.
+
+---
+
+## What this repository helps you do
+
+With this guide, you can:
+
+* structure your GitHub repositories clearly
+* create a strong profile README
+* write READMEs that explain purpose and value
+* combine different README perspectives effectively
+* present your work in a way that reflects your thinking
+
+---
+
+## How to use this repository
+
+You don’t need to go through everything at once.
+
+Start here:
+
+### 1. Profile README
+
+👉 Go to: `01-Profile-README`
+Learn how to position yourself clearly and avoid generic descriptions.
+
+---
+
+### 2. Repository structure
+
+👉 Go to: `02-Repository-Structure`
+Understand how to organize your GitHub into meaningful topics instead of random projects.
+
+---
+
+### 3. README templates
+
+👉 Go to: `03-README-Templates`
+Use structured templates for different types of repositories.
+
+---
+
+### 4. Examples
+
+👉 Go to: `04-Examples`
+See how structured READMEs look in practice.
+
+---
+
+### 5. Checklist
+
+👉 Go to: `05-Checklist`
+Use a simple checklist to review and improve your GitHub.
+
+---
+
+## Core idea
+
+GitHub is not just a place to store files.
+
+It is a place to represent:
+
+* your work
+* your structure
+* your approach
+* your thinking
+
+A well-structured GitHub creates clarity and trust.
+
+---
+
+## What makes this different
+
+This is not about:
+
+* writing technical documentation
+* creating perfect repositories
+* optimizing for code
+
+This is about:
+
+* clarity over complexity
+* structure over randomness
+* usability over completeness
+
+---
+
+## Who this is for
+
+* Power BI developers
+* BI analysts
+* freelancers and consultants
+* anyone who wants to present their work more clearly
+
+---
+
+## License & Usage
+
+This project is licensed under the MIT License.
+
+You are free to use, adapt, and share the content.
+
+If you use this work, attribution is appreciated:
+
+* Link to this repository
+* Mention the original source
+* Credit the author (Jasmin Simader)
+
+---
+
+## Final thought
+
+You don’t need more projects.
+
+You need better structure.
+
+That’s what turns GitHub into a real portfolio.
