@@ -1,3 +1,4 @@
+![Banner](https://raw.githubusercontent.com/Jasmin319/Jasmin319/3b8938c90b463d31690ae8562c8be9b2008c4596/Banner.png)
 # README Perspective Guide for BI Projects
 
 ## What this is
