@@ -187,11 +187,3 @@ You don’t need more projects.
 You need better structure.
 And a GitHub that really communicates who you are.  
 That’s what turns GitHub into a real portfolio.  
-
----
-
----
-
-<p align="right">
-  <a href="./chapter-2.md">➡️ Next</a>
-</p>
