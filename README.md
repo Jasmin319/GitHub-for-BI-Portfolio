@@ -1,17 +1,5 @@
 ![Banner](https://raw.githubusercontent.com/Jasmin319/Jasmin319/3b8938c90b463d31690ae8562c8be9b2008c4596/Banner.png)
 
-<p align="center">
-  <a href="./chapter-1.md">
-    <img src="https://img.shields.io/badge/⬅️-Previous-555555?style=for-the-badge">
-  </a>
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/🏠-Home-555555?style=for-the-badge">
-  </a>
-  <a href="./chapter-2.md">
-    <img src="https://img.shields.io/badge/Next-➡️-555555?style=for-the-badge">
-  </a>
-</p>
-
 # Turn your messy GitHub into a  professional BI Portfolio
 
 A practical system to turn GitHub from a file storage tool into a structured BI portfolio.
@@ -204,6 +192,7 @@ That’s what turns GitHub into a real portfolio.
 ---
 
 <p align="right">
-  <a href="https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/main/01-Profile-README">➡️ Next</a>
+  <a href="https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/main/01-Profile-README">
+    <img src="https://img.shields.io/badge/Next-➡️-555555?style=for-the-badge">
+  </a>
 </p>
-
