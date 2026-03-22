@@ -70,7 +70,7 @@ Answers:
 
 ---
 
-### 2. Showcase  
+### [2. Showcase](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/main/03-README-Templates/Role-Specific-Templates/Showcase-README.md)  
 **Focus:** results  
 
 Use this when the output is the main value.
@@ -82,7 +82,7 @@ Answers:
 
 ---
 
-### 3. Tutorial  
+### [3. Tutorial](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/main/03-README-Templates/Role-Specific-Templates/Tutorial-README.md)  
 **Focus:** learning  
 
 Use this when you want to teach something.
@@ -93,7 +93,7 @@ Answers:
 
 ---
 
-### 4. Storytelling  
+### [4. Storytelling](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/main/03-README-Templates/Role-Specific-Templates/Storytelling-README.md)  
 **Focus:** context  
 
 Use this when the problem and situation matter.
@@ -104,7 +104,7 @@ Answers:
 
 ---
 
-### 5. Systems & Frameworks  
+### [5. Systems & Frameworks](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/main/03-README-Templates/Role-Specific-Templates/System-Framework-README.md)  
 **Focus:** thinking  
 
 Use this when you want to show your approach or provide a framework for a specific topic.
