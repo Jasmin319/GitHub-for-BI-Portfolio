@@ -36,7 +36,7 @@ With this guide, you can:
 
 ---
 
-## 🎥 Watch the tutorial (available from 23.03.2026 - 16:00 CET)
+## 🎥 Watch the Tutorial (available from 23.03.2026 - 16:00 CET)
 
 [Pimp your GitHub](https://youtu.be/Ow_LDXCYC9Y)
 
