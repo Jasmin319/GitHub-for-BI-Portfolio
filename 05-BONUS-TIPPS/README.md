@@ -2,11 +2,12 @@
 
 ---
 
-<p>
-  <a href="./chapter-1.md">⬅️ Previous</a>
-  &nbsp;&nbsp;
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/🏠-Home-black?style=for-the-badge">
+<p align="left">
+  <a href="https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/main/04-CHECKLIST">
+    <img src="https://img.shields.io/badge/⬅️-Previous-555555?style=for-the-badge">
+  </a>
+  <a href="https://github.com/Jasmin319/GitHub-for-BI-Portfolio">
+    <img src="https://img.shields.io/badge/🏠-Home-555555?style=for-the-badge">
   </a>
 </p>
 
