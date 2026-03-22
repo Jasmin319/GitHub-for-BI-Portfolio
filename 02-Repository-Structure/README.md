@@ -118,4 +118,6 @@ Use a max of 7 elements on each level.
 
 A clean structure saves time and looks much more professional.
 
-[https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/main/01-Profile-README](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/main/03-README-Templates)
+<p align="right">
+  <a href="https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/main/03-README-Templates">➡️ Next</a>
+</p>
