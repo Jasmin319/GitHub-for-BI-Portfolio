@@ -188,14 +188,8 @@ You need better structure.
 And a GitHub that really communicates who you are.  
 That’s what turns GitHub into a real portfolio.  
 
-<p>
-  <a href="./chapter-1.md">
-    <img src="https://img.shields.io/badge/⬅️-Previous-lightgrey?style=for-the-badge">
-  </a>
-</p>
+---
 
-<p align="right">
-  <a href="./chapter-2.md">
-    <img src="https://img.shields.io/badge/Next-➡️-blue?style=for-the-badge">
-  </a>
-</p>
+| | |
+|---|---|
+| [![⬅️ Previous](https://img.shields.io/badge/⬅️-Previous-lightgrey?style=for-the-badge)](./chapter-1.md) | <div align="right">[![Next ➡️](https://img.shields.io/badge/Next-➡️-blue?style=for-the-badge)](./chapter-2.md)</div> |
