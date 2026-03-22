@@ -1,6 +1,13 @@
 ![Banner](https://raw.githubusercontent.com/Jasmin319/Jasmin319/3b8938c90b463d31690ae8562c8be9b2008c4596/Banner.png)
 
-[![Home](https://img.shields.io/badge/🏠-Home-black?style=for-the-badge)](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/main)
+<p align="left">
+  <a href="https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/main/01-Profile-README">
+    <img src="https://img.shields.io/badge/⬅️-Previous-555555?style=for-the-badge">
+  </a>
+  <a href="https://github.com/Jasmin319/GitHub-for-BI-Portfolio">
+    <img src="https://img.shields.io/badge/🏠-Home-555555?style=for-the-badge">
+  </a>
+</p>
 
 # Repository Structure Guide
 
