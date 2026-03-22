@@ -190,13 +190,8 @@ That’s what turns GitHub into a real portfolio.
 
 ---
 
-<p>
-  <a href="./chapter-1.md">
-    <img src="https://img.shields.io/badge/⬅️-Previous-lightgrey?style=for-the-badge">
-  </a>
-  <span style="float:right;">
-    <a href="./chapter-2.md">
-      <img src="https://img.shields.io/badge/Next-➡️-blue?style=for-the-badge">
-    </a>
-  </span>
+---
+
+<p align="right">
+  <a href="./chapter-2.md">➡️ Next</a>
 </p>
