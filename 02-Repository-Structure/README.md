@@ -126,5 +126,7 @@ Use a max of 7 elements on each level.
 A clean structure saves time and looks much more professional.
 
 <p align="right">
-  <a href="https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/main/03-README-Templates">➡️ Next</a>
+  <a href="https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/main/03-README-Templates">
+    <img src="https://img.shields.io/badge/Next-➡️-555555?style=for-the-badge">
+  </a>
 </p>
