@@ -309,5 +309,7 @@ Keep it intentional.
 ---
 
 <p align="right">
-  <a href="https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/main/02-Repository-Structure">➡️ Next</a>
+  <a href="https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/main/02-Repository-Structure">
+    <img src="https://img.shields.io/badge/Next-➡️-555555?style=for-the-badge">
+  </a>
 </p>
