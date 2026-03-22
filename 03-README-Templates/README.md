@@ -64,6 +64,7 @@ Besides of the 5 Perspectives there is also a README for a Simple Project
 
 ### 1. Documentation
 👉 [Documentation README Template](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/main/03-README-Templates/Role-Specific-Templates/Documentation-README.md)  
+
 **Focus:** usability  
 
 Use this when your project should be directly usable.
