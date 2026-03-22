@@ -61,7 +61,7 @@ That answer defines how your README should be written.
 (You can get to the README by just clicking on the headers i.e. "1. Documentation")
 
 Besides of the 5 Perspectives there is also a README for a Simple Project  
-👉[Simple Porject](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/main/03-README-Templates/Role-Specific-Templates/Simple-Project-README.md)
+👉[Simple Project](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/main/03-README-Templates/Role-Specific-Templates/Simple-Project-README.md)
 
 ### [1. Documentation](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/main/03-README-Templates/Role-Specific-Templates/Documentation-README.md)  
 **Focus:** usability  
