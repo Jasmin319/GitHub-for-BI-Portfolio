@@ -159,3 +159,7 @@ Not more repositories.
 Not more content.  
 
 👉 More clarity, structure, and usability.
+
+<p align="right">
+  <a href="https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/main/05-BONUS-TIPPS">➡️ Next</a>
+</p>
