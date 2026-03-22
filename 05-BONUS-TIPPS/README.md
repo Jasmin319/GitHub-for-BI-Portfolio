@@ -1,12 +1,13 @@
 ![Banner](https://raw.githubusercontent.com/Jasmin319/Jasmin319/3b8938c90b463d31690ae8562c8be9b2008c4596/Banner.png)
 
+---
+
 <p>
   <a href="./chapter-1.md">⬅️ Previous</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="./README.md">🏠 Home</a>
-  <span style="float:right;">
-    <a href="./chapter-2.md">Next ➡️</a>
-  </span>
+  &nbsp;&nbsp;
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/🏠-Home-black?style=for-the-badge">
+  </a>
 </p>
 
 # README Bonus Tips: Elements That Improve Clarity
