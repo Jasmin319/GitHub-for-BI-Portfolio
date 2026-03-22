@@ -1,4 +1,19 @@
 ![Banner](https://raw.githubusercontent.com/Jasmin319/Jasmin319/3b8938c90b463d31690ae8562c8be9b2008c4596/Banner.png)
+
+<p>
+  <a href="./chapter-1.md">
+    <img src="https://img.shields.io/badge/⬅️-Previous-white?style=for-the-badge&logoColor=black">
+  </a>
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/🏠-Home-black?style=for-the-badge">
+  </a>
+  <span style="float:right;">
+    <a href="./chapter-2.md">
+      <img src="https://img.shields.io/badge/Next-➡️-blue?style=for-the-badge">
+    </a>
+  </span>
+</p>
+
 # Turn your messy GitHub into a  professional BI Portfolio
 
 A practical system to turn GitHub from a file storage tool into a structured BI portfolio.
