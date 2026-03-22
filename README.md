@@ -1,17 +1,15 @@
 ![Banner](https://raw.githubusercontent.com/Jasmin319/Jasmin319/3b8938c90b463d31690ae8562c8be9b2008c4596/Banner.png)
 
-<p>
+<p align="center">
   <a href="./chapter-1.md">
-    <img src="https://img.shields.io/badge/⬅️-Previous-white?style=for-the-badge&logoColor=black">
+    <img src="https://img.shields.io/badge/⬅️-Previous-555555?style=for-the-badge">
   </a>
   <a href="./README.md">
-    <img src="https://img.shields.io/badge/🏠-Home-black?style=for-the-badge">
+    <img src="https://img.shields.io/badge/🏠-Home-555555?style=for-the-badge">
   </a>
-  <span style="float:right;">
-    <a href="./chapter-2.md">
-      <img src="https://img.shields.io/badge/Next-➡️-blue?style=for-the-badge">
-    </a>
-  </span>
+  <a href="./chapter-2.md">
+    <img src="https://img.shields.io/badge/Next-➡️-555555?style=for-the-badge">
+  </a>
 </p>
 
 # Turn your messy GitHub into a  professional BI Portfolio
