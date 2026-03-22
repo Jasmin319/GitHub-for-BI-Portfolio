@@ -151,7 +151,15 @@ Use this to:
 
 ---
 
-## 8. Section structure
+## 8. Buttons
+
+    ```
+    [![Home](https://img.shields.io/badge/🏠-Home-black?style=for-the-badge)](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/main)
+    ```
+
+[![Home](https://img.shields.io/badge/🏠-Home-black?style=for-the-badge)](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/main)
+
+## 9. Section structure
 
 ### Code
 
@@ -173,7 +181,7 @@ Use clear sections to:
 
 ---
 
-## 9. Horizontal separators
+## 10. Horizontal separators
 
 ### Code
 
@@ -190,7 +198,7 @@ Use separators to:
 
 ---
 
-## 10. Combining elements (example)
+## 11. Combining elements (example)
 
 ### Code
 
