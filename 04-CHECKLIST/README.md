@@ -7,9 +7,6 @@
   <a href="https://github.com/Jasmin319/GitHub-for-BI-Portfolio">
     <img src="https://img.shields.io/badge/🏠-Home-555555?style=for-the-badge">
   </a>
-  <a href="https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/main/05-BONUS-TIPPS">
-    <img src="https://img.shields.io/badge/Next-➡️-555555?style=for-the-badge">
-  </a>
 </p>
 
 # GitHub Upgrade Checklist  
