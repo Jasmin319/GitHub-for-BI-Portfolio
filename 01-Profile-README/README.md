@@ -304,5 +304,3 @@ Keep it intentional.
 <p align="right">
   <a href="https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/main/02-Repository-Structure">➡️ Next</a>
 </p>
-
-
