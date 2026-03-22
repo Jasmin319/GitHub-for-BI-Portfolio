@@ -58,12 +58,12 @@ That answer defines how your README should be written.
 ---
 
 ## The five core perspectives
-(You can get to the README by just clicking on the headers i.e. "1. Documentation")
 
 Besides of the 5 Perspectives there is also a README for a Simple Project  
-👉[Simple Project](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/main/03-README-Templates/Role-Specific-Templates/Simple-Project-README.md)
+👉 [Simple Project](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/main/03-README-Templates/Role-Specific-Templates/Simple-Project-README.md)
 
-### [1. Documentation](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/main/03-README-Templates/Role-Specific-Templates/Documentation-README.md)  
+### 1. Documentation
+👉 [Documentation README Template](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/main/03-README-Templates/Role-Specific-Templates/Documentation-README.md)  
 **Focus:** usability  
 
 Use this when your project should be directly usable.
@@ -74,7 +74,10 @@ Answers:
 
 ---
 
-### [2. Showcase](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/main/03-README-Templates/Role-Specific-Templates/Showcase-README.md)  
+### 2. Showcase
+
+👉 [Showcase README Template](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/main/03-README-Templates/Role-Specific-Templates/Showcase-README.md)  
+
 **Focus:** results  
 
 Use this when the output is the main value.
@@ -86,7 +89,10 @@ Answers:
 
 ---
 
-### [3. Tutorial](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/main/03-README-Templates/Role-Specific-Templates/Tutorial-README.md)  
+### 3. Tutorial  
+
+👉 [Tutorial README Template](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/main/03-README-Templates/Role-Specific-Templates/Tutorial-README.md)  
+
 **Focus:** learning  
 
 Use this when you want to teach something.
@@ -97,7 +103,10 @@ Answers:
 
 ---
 
-### [4. Storytelling](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/main/03-README-Templates/Role-Specific-Templates/Storytelling-README.md)  
+### 4. Storytelling   
+
+👉 [Storytelling README Template](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/main/03-README-Templates/Role-Specific-Templates/Storytelling-README.md)  
+
 **Focus:** context  
 
 Use this when the problem and situation matter.
@@ -108,7 +117,10 @@ Answers:
 
 ---
 
-### [5. Systems & Frameworks](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/main/03-README-Templates/Role-Specific-Templates/System-Framework-README.md)  
+### 5. Systems & Frameworks    
+
+👉 [Systems & Framework README Template](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/main/03-README-Templates/Role-Specific-Templates/System-Framework-README.md)  
+
 **Focus:** thinking  
 
 Use this when you want to show your approach or provide a framework for a specific topic.
