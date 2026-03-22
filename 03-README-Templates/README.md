@@ -58,6 +58,7 @@ That answer defines how your README should be written.
 ---
 
 ## The five core perspectives
+(You can get to the README by just clicking on the headers i.e. "1. Documentation")
 
 ### [1. Documentation](https://github.com/Jasmin319/GitHub-for-BI-Portfolio/blob/main/03-README-Templates/Role-Specific-Templates/Documentation-README.md)  
 **Focus:** usability  
