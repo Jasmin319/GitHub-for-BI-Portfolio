@@ -189,7 +189,7 @@ You need better structure.
 And a GitHub that really communicates who you are.  
 That’s what turns GitHub into a real portfolio.  
 
-## Artciles about it
+## Articles about it
 [Medium Article in EN](https://medium.com/p/4ef1df3b413a?postPublishedType=initial)  
 [LinkedIn Article in EN](https://www.linkedin.com/pulse/how-i-turned-my-messy-github-professional-bi-full-jasmin-simader-qluuf/?trackingId=wILBYcirD9ZZxWb2wAIqsg%3D%3D)
 
