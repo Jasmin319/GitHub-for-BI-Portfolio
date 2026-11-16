@@ -1,4 +1,4 @@
-![Banner](Assets/Banner.png)
+![Banner](/Assets/Banner.png)
 
 <p align="left">
   <a href="https://github.com/Jasmin319/GitHub-for-BI-Portfolio/tree/main/01-Profile-README">
