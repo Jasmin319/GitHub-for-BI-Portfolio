@@ -1,4 +1,4 @@
-![Banner](https://github.com/Jasmin319/powerbi-copilot-usecases/blob/main/Assets/Banner.png)
+![Banner](Assets/Banner.png)
 
 # Turn your messy GitHub into a  professional BI Portfolio
 
